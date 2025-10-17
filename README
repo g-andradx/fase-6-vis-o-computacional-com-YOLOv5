@@ -38,6 +38,7 @@ drive.mount('/content/drive')
 
 > Todas as imagens e labels devem estar organizadas no Google Drive do grupo, separadas em pastas `train`, `val` e `test`.  
 > As labels devem ser feitas no Make Sense AI e salvas no Google Drive.
+> LINK PARA ACESSO DO DRIVE: https://drive.google.com/drive/folders/131IwLxae4LPHxLXpNSVuo65ikbodnVcD?usp=drive_link
 
 
 # --- Célula 3: Criar arquivo dataset.yaml ---
